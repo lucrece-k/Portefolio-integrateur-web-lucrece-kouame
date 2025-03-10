@@ -1,0 +1,17 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+html body {
+  display: flex;
+  flex-direction: column;
+}
+html header {
+  display: flex;
+  justify-content: space-between;
+}
+html header ul {
+  display: flex;
+}
+
+/*# sourceMappingURL=style.css.map */
