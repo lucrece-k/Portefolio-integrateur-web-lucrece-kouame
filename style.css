@@ -37,7 +37,6 @@ html body main .accuil {
   background-position: center;
   height: 286px;
   border-radius: 8px;
-  filter: opacity(0.8);
 }
 html body main .accuil p {
   margin: 0;
